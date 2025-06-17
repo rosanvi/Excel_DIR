@@ -1,4 +1,4 @@
-# Excel_DIR
+# Excel_DIR_ROSH
 Ferramenta no Excel que ajuda a organizar e reunir informações para DIR
 O procedimento para a realização do projeto foi o seguinte:
 1. Inserir rectangulos imagenes y nombres de teclas
