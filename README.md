@@ -31,3 +31,8 @@ tipo
 para el caso de Celular (11)96429-0300 el cual corresponde a: "("00")"00000"-"0000 el cual debe ir en "tipo"
 ![image](https://github.com/user-attachments/assets/6869dcef-eb97-4dfe-81d3-febccd715ad2)
 
+![image](https://github.com/user-attachments/assets/fd164f17-b5b6-4d64-b743-cd91a3798914)
+
+![image](https://github.com/user-attachments/assets/868c9ab8-2085-4f86-9bca-fe9c8896213b)
+
+
